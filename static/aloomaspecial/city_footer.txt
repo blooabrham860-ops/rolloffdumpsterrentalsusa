@@ -1,0 +1,44 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 10px;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma">1. What sizes of dumpsters do you offer?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We maintain a full range of roll-off and front-load container sizes—from small 10-yard units up to 40-yard models—to suit everything from minor home clean-ups to major construction projects. How long can I keep the dumpster on site? Typically you rent a container for a standard period (e.g., 7-14 days), but extensions are often possible. We will quote you a rental period and you can request additional time if necessary.</p>
+                <h4 class="template4 palooma">2. Are there items that cannot go into the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. We provide a clear list of prohibited materials (such as certain hazardous chemicals, asbestos, motor oil, and large quantities of liquid waste) to stay compliant with local disposal centers.</p>
+                <h4 class="template4 palooma">3. How much does it cost?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Pricing depends on container size, rental period, load weight, type of waste and access logistics. We provide transparent quotes and alert you to possible extra charges (like overweight or inaccessible placement) upfront.</p>
+                <h4 class="template4 palooma">4. Do you offer recycling or diversion services?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. We partner with local recycling centres and will help you separate and divert eligible materials. We provide guidance on what can be recycled and include documentation where applicable.</p>
+                <div class="callalooma mx-auto"><a href="tel:850-332-9639">Click Here To Call Us (850) 332-9639</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
